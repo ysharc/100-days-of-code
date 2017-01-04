@@ -13,3 +13,11 @@
 **Today's Progress**: Skipped today's coding.
 
 **Thoughts:** No skipping for another two weeks i.e until 18th January 2016
+
+### Day 3: January 4, 2016
+
+**Today's Progress**: Created a neural net to play tic-tac-toe
+
+**Thoughts:** Coded a neural net from simple tutorials available on net. Testing is yet to be done. Training data has to be created by making an intelligent player first.
+
+**Link to work:** [Tic-Tac-Toe](https://github.com/ysharc/tic_tac_toe)
