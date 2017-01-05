@@ -21,3 +21,11 @@
 **Thoughts:** Coded a neural net from simple tutorials available on net. Testing is yet to be done. Training data has to be created by making an intelligent player first.
 
 **Link to work:** [Tic-Tac-Toe](https://github.com/ysharc/tic_tac_toe)
+
+### Day 4: January 5, 2016
+
+**Today's Progress**: Made a simple chat app using node, express and socket-io
+
+**Thoughts:** Forgot to add .gitignore, a very costly mistake when dealing with node_modules.
+
+**Link to work:** [Simple-Chat](https://github.com/ysharc/simple-chat)
