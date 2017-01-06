@@ -29,3 +29,11 @@
 **Thoughts:** Forgot to add .gitignore, a very costly mistake when dealing with node_modules.
 
 **Link to work:** [Simple-Chat](https://github.com/ysharc/simple-chat)
+
+### Day 5: January 6, 2016
+
+**Today's Progress**: Fixed bugs in training data generation and win checks of tic-tac-toe. 
+
+**Thoughts:** Intelligent player's part is turning into spaghetti code, need to fix it. Didn't progress much.
+
+**Link to work:** [Tic-Tac-Toe](https://github.com/ysharc/tic_tac_toe)
