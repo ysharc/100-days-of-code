@@ -37,3 +37,11 @@
 **Thoughts:** Intelligent player's part is turning into spaghetti code, need to fix it. Didn't progress much.
 
 **Link to work:** [Tic-Tac-Toe](https://github.com/ysharc/tic_tac_toe)
+
+### Day 6: January 7, 2016
+
+**Today's Progress**: Fixed bugs in training data generation and added intelligent player logic
+
+**Thoughts:** Learnt some quick tips using numpy arrays, need to refactor the messy code.
+
+**Link to work:** [Tic-Tac-Toe](https://github.com/ysharc/tic_tac_toe)
