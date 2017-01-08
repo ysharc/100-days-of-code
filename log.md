@@ -45,3 +45,11 @@
 **Thoughts:** Learnt some quick tips using numpy arrays, need to refactor the messy code.
 
 **Link to work:** [Tic-Tac-Toe](https://github.com/ysharc/tic_tac_toe)
+
+### Day 7: January 8, 2016
+
+**Today's Progress**: Completed training data generation and replaced the activation function 
+
+**Thoughts:** need to write tests and add gui
+
+**Link to work:** [Tic-Tac-Toe](https://github.com/ysharc/tic_tac_toe)
