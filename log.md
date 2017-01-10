@@ -53,3 +53,19 @@
 **Thoughts:** need to write tests and add gui
 
 **Link to work:** [Tic-Tac-Toe](https://github.com/ysharc/tic_tac_toe)
+
+### Day 8: January 9, 2016
+
+**Today's Progress**: Started building a web extension
+
+**Thoughts:** Not much of code progress, but read docmentation on web-extensions and created a basic structure and manifest file
+
+**Link to work:** [Look-Up](https://github.com/ysharc/look-up)
+
+### Day 8: January 10, 2016
+
+**Today's Progress**: Completed Selection logic and added dictionary API calls
+
+**Thoughts:** Selection logic working fine, but have to debug API calls. Also need to add options and shortcuts. Overall progress is slow but learning new things!
+
+**Link to work:** [Look-Up](https://github.com/ysharc/look-up)
