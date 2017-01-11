@@ -62,10 +62,18 @@
 
 **Link to work:** [Look-Up](https://github.com/ysharc/look-up)
 
-### Day 8: January 10, 2016
+### Day 9: January 10, 2016
 
 **Today's Progress**: Completed Selection logic and added dictionary API calls
 
 **Thoughts:** Selection logic working fine, but have to debug API calls. Also need to add options and shortcuts. Overall progress is slow but learning new things!
 
 **Link to work:** [Look-Up](https://github.com/ysharc/look-up)
+
+### Day 10: January 11, 2016
+
+**Today's Progress**: Built a bare minimum server and integrated dev flow tools into it.
+
+**Thoughts:** Used a lot of node_modules, read a lot of documentation. It's good to know all the dev flow tools and work arounds.
+
+**Link to work:** [piECE](https://github.com/ysharc/piECE)
