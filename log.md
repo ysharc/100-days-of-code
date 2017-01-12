@@ -77,3 +77,11 @@
 **Thoughts:** Used a lot of node_modules, read a lot of documentation. It's good to know all the dev flow tools and work arounds.
 
 **Link to work:** [piECE](https://github.com/ysharc/piECE)
+
+### Day 11: January 12, 2016
+
+**Today's Progress**: Completed MVP for look-up web extension.
+
+**Thoughts:** Happy on completing a working product. Yet to add features like correction and options for the notifications.
+
+**Link to work:** [Look-Up](https://github.com/ysharc/look-up)
