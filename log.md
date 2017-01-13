@@ -85,3 +85,12 @@
 **Thoughts:** Happy on completing a working product. Yet to add features like correction and options for the notifications.
 
 **Link to work:** [Look-Up](https://github.com/ysharc/look-up)
+
+### Day 11: January 12, 2016
+
+**Today's Progress**: Fixed notification problems and published add-on for review.
+
+**Thoughts:** Need to add more features on the addon. Also fixed some web-pack issues on dev build - piece app. Need to fix the production build.
+
+**Link to work:** [Look-Up](https://github.com/ysharc/look-up)
+
