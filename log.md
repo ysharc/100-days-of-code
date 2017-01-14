@@ -86,11 +86,19 @@
 
 **Link to work:** [Look-Up](https://github.com/ysharc/look-up)
 
-### Day 11: January 12, 2016
+### Day 12: January 13, 2016
 
 **Today's Progress**: Fixed notification problems and published add-on for review.
 
 **Thoughts:** Need to add more features on the addon. Also fixed some web-pack issues on dev build - piece app. Need to fix the production build.
+
+**Link to work:** [Look-Up](https://github.com/ysharc/look-up)
+
+### Day 13: January 14, 2016
+
+**Today's Progress**: Got my addon published on AMO. Worked on a new feature.
+
+**Thoughts:** Very less of coding today. Most of the time went into planning and searching for new features. Also updated the piECE webpack with bootstrap, both prod and dev builds now updating bootstrap succesfully.
 
 **Link to work:** [Look-Up](https://github.com/ysharc/look-up)
 
