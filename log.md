@@ -102,3 +102,10 @@
 
 **Link to work:** [Look-Up](https://github.com/ysharc/look-up)
 
+### Day 14: January 15, 2016
+
+**Today's Progress**: Started developing new web-app for helping revision.
+
+**Thoughts:** Configured webpack with hot-dev-middleware but facing problems with post requests. Have to debug both mongo client and post requests.
+
+**Link to work:** [Revise](https://github.com/ysharc/revise)
