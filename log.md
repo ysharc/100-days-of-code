@@ -110,10 +110,19 @@
 
 **Link to work:** [Revise](https://github.com/ysharc/revise)
 
-### Day 14: January 15, 2016
+### Day 15: January 16, 2016
 
 **Today's Progress**: Published v0.1 of look-up on AMO
 
 **Thoughts:** Hadn't had much time today. Fixed bugs and made minor improvements to notifications.
 
 **Link to work:** [Look-Up](https://github.com/ysharc/look-up)
+
+### Day 16: January 17, 2016
+
+**Today's Progress**: Addon's revision got accepted.
+
+**Thoughts:** Finished basic front-end of revise to get started, also connected mongodb.
+
+**Link to work:** [Revise](https://github.com/ysharc/revise)
+
