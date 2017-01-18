@@ -126,3 +126,11 @@
 
 **Link to work:** [Revise](https://github.com/ysharc/revise)
 
+### Day 17: January 18, 2016
+
+**Today's Progress**: Reworking on the un functional addon.
+
+**Thoughts:** Forgot to add the keyword in api call, v0.1 not working. Too bad for a production level code. So totally restrucutred code base, added options and browser action pages. Leanrt firsthand about promises and got a better grip on the whole async concept.
+
+**Link to work:** [Look-Up](https://github.com/ysharc/look-up)
+
