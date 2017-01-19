@@ -134,3 +134,11 @@
 
 **Link to work:** [Look-Up](https://github.com/ysharc/look-up)
 
+### Day 18: January 19, 2016
+
+**Today's Progress**: Version 0.2 released, uploading to AMO
+
+**Thoughts:** Finished working on the modes and made connections between background and content scripts.
+
+**Link to work:** [Look-Up](https://github.com/ysharc/look-up)
+
