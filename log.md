@@ -142,3 +142,11 @@
 
 **Link to work:** [Look-Up](https://github.com/ysharc/look-up)
 
+### Day 19: January 21, 2016
+
+**Today's Progress**: Made minor changes to revise app and started an android game project
+
+**Thoughts:** Studied a lot of nativescript documentation. Prevented default behavior of post using express.
+
+**Link to work:** [Revise](https://github.com/ysharc/revise)
+
