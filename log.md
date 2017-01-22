@@ -150,3 +150,11 @@
 
 **Link to work:** [Revise](https://github.com/ysharc/revise)
 
+### Day 20: January 22, 2016
+
+**Today's Progress**: Made minor changes to AFC.
+
+**Thoughts:** Made changes to AFC and Piece websites.
+
+**Link to work:** [Revise](https://github.com/ysharc/AFC)
+
