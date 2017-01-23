@@ -152,9 +152,9 @@
 
 ### Day 20: January 22, 2016
 
-**Today's Progress**: Made minor changes to AFC.
+**Today's Progress**: Designed registration page for piece website.
 
-**Thoughts:** Made changes to AFC and Piece websites.
+**Thoughts:** Still more elements to be added and styling to be done.
 
-**Link to work:** [Revise](https://github.com/ysharc/AFC)
+**Link to work:** [Revise](https://github.com/ysharc/piECE)
 
