@@ -152,9 +152,26 @@
 
 ### Day 20: January 22, 2016
 
+**Today's Progress**: Made minor changes to AFC.
+
+**Thoughts:** Made changes to AFC and Piece websites.
+
+**Link to work:** [AFC](https://github.com/ysharc/AFC)
+
+
+### Day 21: January 23, 2016
+
 **Today's Progress**: Designed registration page for piece website.
 
 **Thoughts:** Still more elements to be added and styling to be done.
 
-**Link to work:** [Revise](https://github.com/ysharc/piECE)
+**Link to work:** [Piece](https://github.com/ysharc/piECE)
+
+### Day 22: January 24, 2016
+
+**Today's Progress**: Changed registration behavior and fixed bugs
+
+**Thoughts:** Fixed registration page in piece
+
+**Link to work:** [Piece](https://github.com/ysharc/piECE)
 
