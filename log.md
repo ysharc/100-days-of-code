@@ -175,3 +175,11 @@
 
 **Link to work:** [Piece](https://github.com/ysharc/piECE)
 
+### Day 23: January 25, 2016
+
+**Today's Progress**: Start page design on gemu
+
+**Thoughts:** Not much of code progress today. Studied a lot on databases from lagunita and started coding in RA.
+
+**Link to work:** [gemu](https://github.com/ysharc/gemu)
+
