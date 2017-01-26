@@ -183,3 +183,11 @@
 
 **Link to work:** [gemu](https://github.com/ysharc/gemu)
 
+### Day 24: January 26, 2016
+
+**Today's Progress**: Added Skelton views and simple game logic in gemu app.
+
+**Thoughts:** Read a lot of documentation. Understood the model view view-model strucutre.
+
+**Link to work:** [gemu](https://github.com/ysharc/gemu)
+
