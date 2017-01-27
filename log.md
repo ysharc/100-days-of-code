@@ -191,3 +191,11 @@
 
 **Link to work:** [gemu](https://github.com/ysharc/gemu)
 
+### Day 25: January 27, 2016
+
+**Today's Progress**: Added progress bar in single player mode
+
+**Thoughts:** Read a lot of documentation. Made minor changes to single player UI and game logic
+
+**Link to work:** [gemu](https://github.com/ysharc/gemu)
+
