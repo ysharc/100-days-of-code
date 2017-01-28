@@ -199,3 +199,11 @@
 
 **Link to work:** [gemu](https://github.com/ysharc/gemu)
 
+### Day 26: January 28, 2016
+
+**Today's Progress**: Finished game logic of single and pass n' play modes.
+
+**Thoughts:** Need to refactor code in single player mode. Need to update UI for better aesthetics and UX. Have to finish the bluetooth connection and work on connect mode logic.
+
+**Link to work:** [gemu](https://github.com/ysharc/gemu)
+
