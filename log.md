@@ -207,3 +207,11 @@
 
 **Link to work:** [gemu](https://github.com/ysharc/gemu)
 
+### Day 27: January 29, 2016
+
+**Today's Progress**: Added bluetooth functionality to connect mode in gemu
+
+**Thoughts:** Added finishing dialog for the pass n play mode. Though the permission for bluetooth is granted, the device (Edge S6) has not been able to find the bluetooth devices nearby. Have to debug it.
+
+**Link to work:** [gemu](https://github.com/ysharc/gemu)
+
