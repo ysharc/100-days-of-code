@@ -215,3 +215,10 @@
 
 **Link to work:** [gemu](https://github.com/ysharc/gemu)
 
+### Day 28: January 30, 2016
+
+**Today's Progress**: Changed UI of single player and pass n play modes
+
+**Thoughts:** Circular pogressbar addon not working. Have to debug it.
+
+**Link to work:** [gemu](https://github.com/ysharc/gemu)
