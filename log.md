@@ -222,3 +222,11 @@
 **Thoughts:** Circular pogressbar addon not working. Have to debug it.
 
 **Link to work:** [gemu](https://github.com/ysharc/gemu)
+
+### Day 29: January 31, 2016
+
+**Today's Progress**: Added CRUD operations in revise app.
+
+**Thoughts:** Read a lot of mongoDB documentation and completed the second week in the course. Implemented CRUD operations in revise app for practice. The bluetooth module and progressbar module in nativescript aren't working as intended. Searching for alternatives.
+
+**Link to work:** [revise](https://github.com/ysharc/revise)
