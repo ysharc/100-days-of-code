@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 1: January 2, 2016
+### Day 1: January 2, 2017
 
 **Today's Progress**: Finished basic layout for a school website.
 
@@ -8,13 +8,13 @@
 
 **Link to work:** [AFC](https://github.com/ysharc/AFC)
 
-### Day 2: January 3, 2016
+### Day 2: January 3, 2017
 
 **Today's Progress**: Skipped today's coding.
 
-**Thoughts:** No skipping for another two weeks i.e until 18th January 2016
+**Thoughts:** No skipping for another two weeks i.e until 18th January 2017
 
-### Day 3: January 4, 2016
+### Day 3: January 4, 2017
 
 **Today's Progress**: Created a neural net to play tic-tac-toe
 
@@ -22,7 +22,7 @@
 
 **Link to work:** [Tic-Tac-Toe](https://github.com/ysharc/tic_tac_toe)
 
-### Day 4: January 5, 2016
+### Day 4: January 5, 2017
 
 **Today's Progress**: Made a simple chat app using node, express and socket-io
 
@@ -30,7 +30,7 @@
 
 **Link to work:** [Simple-Chat](https://github.com/ysharc/simple-chat)
 
-### Day 5: January 6, 2016
+### Day 5: January 6, 2017
 
 **Today's Progress**: Fixed bugs in training data generation and win checks of tic-tac-toe. 
 
@@ -38,7 +38,7 @@
 
 **Link to work:** [Tic-Tac-Toe](https://github.com/ysharc/tic_tac_toe)
 
-### Day 6: January 7, 2016
+### Day 6: January 7, 2017
 
 **Today's Progress**: Fixed bugs in training data generation and added intelligent player logic
 
@@ -46,7 +46,7 @@
 
 **Link to work:** [Tic-Tac-Toe](https://github.com/ysharc/tic_tac_toe)
 
-### Day 7: January 8, 2016
+### Day 7: January 8, 2017
 
 **Today's Progress**: Completed training data generation and replaced the activation function 
 
@@ -54,7 +54,7 @@
 
 **Link to work:** [Tic-Tac-Toe](https://github.com/ysharc/tic_tac_toe)
 
-### Day 8: January 9, 2016
+### Day 8: January 9, 2017
 
 **Today's Progress**: Started building a web extension
 
@@ -62,7 +62,7 @@
 
 **Link to work:** [Look-Up](https://github.com/ysharc/look-up)
 
-### Day 9: January 10, 2016
+### Day 9: January 10, 2017
 
 **Today's Progress**: Completed Selection logic and added dictionary API calls
 
@@ -70,7 +70,7 @@
 
 **Link to work:** [Look-Up](https://github.com/ysharc/look-up)
 
-### Day 10: January 11, 2016
+### Day 10: January 11, 2017
 
 **Today's Progress**: Built a bare minimum server and integrated dev flow tools into it.
 
@@ -78,7 +78,7 @@
 
 **Link to work:** [piECE](https://github.com/ysharc/piECE)
 
-### Day 11: January 12, 2016
+### Day 11: January 12, 2017
 
 **Today's Progress**: Completed MVP for look-up web extension.
 
@@ -86,7 +86,7 @@
 
 **Link to work:** [Look-Up](https://github.com/ysharc/look-up)
 
-### Day 12: January 13, 2016
+### Day 12: January 13, 2017
 
 **Today's Progress**: Fixed notification problems and published add-on for review.
 
@@ -94,7 +94,7 @@
 
 **Link to work:** [Look-Up](https://github.com/ysharc/look-up)
 
-### Day 13: January 14, 2016
+### Day 13: January 14, 2017
 
 **Today's Progress**: Got my addon published on AMO. Worked on a new feature.
 
@@ -102,7 +102,7 @@
 
 **Link to work:** [Look-Up](https://github.com/ysharc/look-up)
 
-### Day 14: January 15, 2016
+### Day 14: January 15, 2017
 
 **Today's Progress**: Started developing new web-app for helping revision.
 
@@ -110,7 +110,7 @@
 
 **Link to work:** [Revise](https://github.com/ysharc/revise)
 
-### Day 15: January 16, 2016
+### Day 15: January 16, 2017
 
 **Today's Progress**: Published v0.1 of look-up on AMO
 
@@ -118,7 +118,7 @@
 
 **Link to work:** [Look-Up](https://github.com/ysharc/look-up)
 
-### Day 16: January 17, 2016
+### Day 16: January 17, 2017
 
 **Today's Progress**: Addon's revision got accepted.
 
@@ -126,7 +126,7 @@
 
 **Link to work:** [Revise](https://github.com/ysharc/revise)
 
-### Day 17: January 18, 2016
+### Day 17: January 18, 2017
 
 **Today's Progress**: Reworking on the un functional addon.
 
@@ -134,7 +134,7 @@
 
 **Link to work:** [Look-Up](https://github.com/ysharc/look-up)
 
-### Day 18: January 19, 2016
+### Day 18: January 19, 2017
 
 **Today's Progress**: Version 0.2 released, uploading to AMO
 
@@ -142,7 +142,7 @@
 
 **Link to work:** [Look-Up](https://github.com/ysharc/look-up)
 
-### Day 19: January 21, 2016
+### Day 19: January 21, 2017
 
 **Today's Progress**: Made minor changes to revise app and started an android game project
 
@@ -150,7 +150,7 @@
 
 **Link to work:** [Revise](https://github.com/ysharc/revise)
 
-### Day 20: January 22, 2016
+### Day 20: January 22, 2017
 
 **Today's Progress**: Made minor changes to AFC.
 
@@ -159,7 +159,7 @@
 **Link to work:** [AFC](https://github.com/ysharc/AFC)
 
 
-### Day 21: January 23, 2016
+### Day 21: January 23, 2017
 
 **Today's Progress**: Designed registration page for piece website.
 
@@ -167,7 +167,7 @@
 
 **Link to work:** [Piece](https://github.com/ysharc/piECE)
 
-### Day 22: January 24, 2016
+### Day 22: January 24, 2017
 
 **Today's Progress**: Changed registration behavior and fixed bugs
 
@@ -175,7 +175,7 @@
 
 **Link to work:** [Piece](https://github.com/ysharc/piECE)
 
-### Day 23: January 25, 2016
+### Day 23: January 25, 2017
 
 **Today's Progress**: Start page design on gemu
 
@@ -183,7 +183,7 @@
 
 **Link to work:** [gemu](https://github.com/ysharc/gemu)
 
-### Day 24: January 26, 2016
+### Day 24: January 26, 2017
 
 **Today's Progress**: Added Skelton views and simple game logic in gemu app.
 
@@ -191,7 +191,7 @@
 
 **Link to work:** [gemu](https://github.com/ysharc/gemu)
 
-### Day 25: January 27, 2016
+### Day 25: January 27, 2017
 
 **Today's Progress**: Added progress bar in single player mode
 
@@ -199,7 +199,7 @@
 
 **Link to work:** [gemu](https://github.com/ysharc/gemu)
 
-### Day 26: January 28, 2016
+### Day 26: January 28, 2017
 
 **Today's Progress**: Finished game logic of single and pass n' play modes.
 
@@ -207,7 +207,7 @@
 
 **Link to work:** [gemu](https://github.com/ysharc/gemu)
 
-### Day 27: January 29, 2016
+### Day 27: January 29, 2017
 
 **Today's Progress**: Added bluetooth functionality to connect mode in gemu
 
@@ -215,7 +215,7 @@
 
 **Link to work:** [gemu](https://github.com/ysharc/gemu)
 
-### Day 28: January 30, 2016
+### Day 28: January 30, 2017
 
 **Today's Progress**: Changed UI of single player and pass n play modes
 
@@ -223,10 +223,19 @@
 
 **Link to work:** [gemu](https://github.com/ysharc/gemu)
 
-### Day 29: January 31, 2016
+### Day 29: January 31, 2017
 
 **Today's Progress**: Added CRUD operations in revise app.
 
 **Thoughts:** Read a lot of mongoDB documentation and completed the second week in the course. Implemented CRUD operations in revise app for practice. The bluetooth module and progressbar module in nativescript aren't working as intended. Searching for alternatives.
 
 **Link to work:** [revise](https://github.com/ysharc/revise)
+
+### Day 30: February 1, 2017
+
+**Today's Progress**: Added custom tool-tip for notification in look-up addon.
+
+**Thoughts:** Have to work on the styling and options of the custom tool-tip.
+
+**Link to work:** [revise](https://github.com/ysharc/look-up)
+
