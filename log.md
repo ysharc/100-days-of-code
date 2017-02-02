@@ -237,5 +237,12 @@
 
 **Thoughts:** Have to work on the styling and options of the custom tool-tip.
 
-**Link to work:** [revise](https://github.com/ysharc/look-up)
+**Link to work:** [Look-Up](https://github.com/ysharc/look-up)
 
+### Day 31: February 2, 2017
+
+**Today's Progress**: Finished the chat-box for showing meaning of words in look-up.
+
+**Thoughts:** Need to finish the minimize and close buttons, also stylize for better UX
+
+**Link to work:** [Look-Up](https://github.com/ysharc/look-up)
