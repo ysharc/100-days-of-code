@@ -246,3 +246,11 @@
 **Thoughts:** Need to finish the minimize and close buttons, also stylize for better UX
 
 **Link to work:** [Look-Up](https://github.com/ysharc/look-up)
+
+### Day 32: February 3, 2017
+
+**Today's Progress**: Added pronunciation and fixed minimize and close buttons in look-up
+
+**Thoughts:** Need to debug the audio button(only works sometimes!) also stylize for better UX.
+
+**Link to work:** [Look-Up](https://github.com/ysharc/look-up)
