@@ -254,3 +254,11 @@
 **Thoughts:** Need to debug the audio button(only works sometimes!) also stylize for better UX.
 
 **Link to work:** [Look-Up](https://github.com/ysharc/look-up)
+
+### Day 33: February 5, 2017
+
+**Today's Progress**: Fixed navbar and header styles in AFC website.
+
+**Thoughts:** Less of coding and more of reading/learning today. Need to finish the website tomorrow.
+
+**Link to work:** [Look-Up](https://github.com/ysharc/AFC)
