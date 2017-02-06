@@ -262,3 +262,11 @@
 **Thoughts:** Less of coding and more of reading/learning today. Need to finish the website tomorrow.
 
 **Link to work:** [Look-Up](https://github.com/ysharc/AFC)
+
+### Day 34: February 6, 2017
+
+**Today's Progress**: Started ML-Calculator and did style changes to AFC website
+
+**Thoughts:** Read a lot of openCV documentation, started scientific calculator's first basic step.
+
+**Link to work:** [ML-Calc](https://github.com/ysharc/ml-calc)
