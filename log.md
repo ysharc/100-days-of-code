@@ -270,3 +270,11 @@
 **Thoughts:** Read a lot of openCV documentation, started scientific calculator's first basic step.
 
 **Link to work:** [ML-Calc](https://github.com/ysharc/ml-calc)
+
+### Day 34: February 6, 2017
+
+**Today's Progress**: Ran my first kaggle kernel.
+
+**Thoughts:** Started the digit recognition competition(starter level) using KNN.
+
+**Link to work:** [Kaggle-digit-recognition](https://github.com/ysharc/100-days-of-code)
