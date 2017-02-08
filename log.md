@@ -271,10 +271,18 @@
 
 **Link to work:** [ML-Calc](https://github.com/ysharc/ml-calc)
 
-### Day 34: February 6, 2017
+### Day 34: February 7, 2017
 
 **Today's Progress**: Ran my first kaggle kernel.
 
 **Thoughts:** Started the digit recognition competition(starter level) using KNN.
 
 **Link to work:** [Kaggle-digit-recognition](https://github.com/ysharc/100-days-of-code)
+
+### Day 35: February 8, 2017
+
+**Today's Progress**: Implemented custom carousel using css
+
+**Thoughts:** Vexed up with the bootstrap carousel, I modified a codepen css carousel and finished the mission section of the website.
+
+**Link to work:** [AFC](https://github.com/ysharc/AFC)
