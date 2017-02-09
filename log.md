@@ -286,3 +286,11 @@
 **Thoughts:** Vexed up with the bootstrap carousel, I modified a codepen css carousel and finished the mission section of the website.
 
 **Link to work:** [AFC](https://github.com/ysharc/AFC)
+
+### Day 36: February 9, 2017
+
+**Today's Progress**: Implemented Conversational web-form in AFC Website.
+
+**Thoughts:** Finished the conversational chatbot and form submission without the backend hassle. Also finished faculty page.
+
+**Link to work:** [AFC](https://github.com/ysharc/AFC)
