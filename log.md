@@ -294,3 +294,11 @@
 **Thoughts:** Finished the conversational chatbot and form submission without the backend hassle. Also finished faculty page.
 
 **Link to work:** [AFC](https://github.com/ysharc/AFC)
+
+### Day 37: February 10, 2017
+
+**Today's Progress**: Implemented no-js fallbacks and pre-loading screen in AFC website.
+
+**Thoughts:** Almost finished the site need to upload originl content and see the fit.
+
+**Link to work:** [AFC](https://github.com/ysharc/AFC)
