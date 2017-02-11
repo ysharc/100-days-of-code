@@ -302,3 +302,12 @@
 **Thoughts:** Almost finished the site need to upload originl content and see the fit.
 
 **Link to work:** [AFC](https://github.com/ysharc/AFC)
+
+### Day 38: February 11, 2017
+
+**Today's Progress**: Finished digit recognition script in ml-calc.
+
+**Thoughts:** Spent the entire day debugging the script and test images of ml-calc without any stellar results. In fact results are sub-optimal.
+
+**Link to work:** [ML_CALC](https://github.com/ysharc/ml-calc)
+
