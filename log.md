@@ -311,3 +311,10 @@
 
 **Link to work:** [ML_CALC](https://github.com/ysharc/ml-calc)
 
+### Day 39: February 12, 2017
+
+**Today's Progress**: Finished bare minimum structure for a good ML pipeline
+
+**Thoughts:** Restructred directory and added pylint, need to add contributing.md and update readme for usage and metrics.
+
+**Link to work:** [ML_CALC](https://github.com/ysharc/ml-calc)
