@@ -318,3 +318,11 @@
 **Thoughts:** Restructred directory and added pylint, need to add contributing.md and update readme for usage and metrics.
 
 **Link to work:** [ML_CALC](https://github.com/ysharc/ml-calc)
+
+### Day 40: February 13, 2017
+
+**Today's Progress**: Finished pre-processing and creating test sets for ML-CALC
+
+**Thoughts:** implemented deafult_knn model, partially metrics script and completed the pre-processing and succesfully generated test_set csv.
+
+**Link to work:** [ML_CALC](https://github.com/ysharc/ml-calc)
