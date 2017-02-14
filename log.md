@@ -326,3 +326,11 @@
 **Thoughts:** implemented deafult_knn model, partially metrics script and completed the pre-processing and succesfully generated test_set csv.
 
 **Link to work:** [ML_CALC](https://github.com/ysharc/ml-calc)
+
+### Day 41: February 14, 2017
+
+**Today's Progress**: Finished metric script for ML-CALC
+
+**Thoughts:** Need to improve metrics, need to incorporate time taken by total model elements (training, predicting, etc,). Finally calculate a weighted score for the whole model.
+
+**Link to work:** [ML_CALC](https://github.com/ysharc/ml-calc)
