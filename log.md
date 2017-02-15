@@ -334,3 +334,11 @@
 **Thoughts:** Need to improve metrics, need to incorporate time taken by total model elements (training, predicting, etc,). Finally calculate a weighted score for the whole model.
 
 **Link to work:** [ML_CALC](https://github.com/ysharc/ml-calc)
+
+### Day 42: February 15, 2017
+
+**Today's Progress**: Added performance and timing metrics for ML-CALC
+
+**Thoughts:** Added nearest neighbor, knn with 10 neighbors and svm with default options. SVM is sure taking it's time. Been waiting since an hour and half, still doesn't finish.
+
+**Link to work:** [ML_CALC](https://github.com/ysharc/ml-calc)
