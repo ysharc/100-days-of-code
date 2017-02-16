@@ -342,3 +342,11 @@
 **Thoughts:** Added nearest neighbor, knn with 10 neighbors and svm with default options. SVM is sure taking it's time. Been waiting since an hour and half, still doesn't finish.
 
 **Link to work:** [ML_CALC](https://github.com/ysharc/ml-calc)
+
+### Day 43: February 16, 2017
+
+**Today's Progress**: 96.843% accuracy using adaboost on kaggle digit recognition
+
+**Thoughts:** Getting the hang of tuning parameters and feature selection.
+
+**Link to work:** [Kaggle-digit-recognition](https://github.com/ysharc/100-days-of-code)
