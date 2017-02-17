@@ -350,3 +350,11 @@
 **Thoughts:** Getting the hang of tuning parameters and feature selection.
 
 **Link to work:** [Kaggle-digit-recognition](https://github.com/ysharc/100-days-of-code)
+
+### Day 44: February 16, 2017
+
+**Today's Progress**: Added two new models to ml-calc
+
+**Thoughts:** Added adaboost and random forest models and played around with performance metrics.
+
+**Link to work:** [ML_CALC](https://github.com/ysharc/ml-calc)
