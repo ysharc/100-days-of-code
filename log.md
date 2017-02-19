@@ -351,10 +351,18 @@
 
 **Link to work:** [Kaggle-digit-recognition](https://github.com/ysharc/100-days-of-code)
 
-### Day 44: February 16, 2017
+### Day 44: February 17, 2017
 
 **Today's Progress**: Added two new models to ml-calc
 
 **Thoughts:** Added adaboost and random forest models and played around with performance metrics.
 
 **Link to work:** [ML_CALC](https://github.com/ysharc/ml-calc)
+
+### Day 45: February 19, 2017
+
+**Today's Progress**: Created skelton repo for let-me-guess
+
+**Thoughts:** Starting the new project on nlp and n-gram model. Making a keyboard for predicting words. Also finishing the data science capstone.
+
+**Link to work:** [let-me-guess](https://github.com/ysharc/let-me-guess)
