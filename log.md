@@ -366,3 +366,11 @@
 **Thoughts:** Starting the new project on nlp and n-gram model. Making a keyboard for predicting words. Also finishing the data science capstone.
 
 **Link to work:** [let-me-guess](https://github.com/ysharc/let-me-guess)
+
+### Day 46: February 20, 2017
+
+**Today's Progress**: Started report on the n-gram model to be used.
+
+**Thoughts:** Read a lot on n-gram and basic text processing, metrics used in such models and various implementation techniques alng with their pros and cons. Going o implement them tomorrow.
+
+**Link to work:** [let-me-guess](https://github.com/ysharc/let-me-guess)
