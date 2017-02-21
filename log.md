@@ -374,3 +374,11 @@
 **Thoughts:** Read a lot on n-gram and basic text processing, metrics used in such models and various implementation techniques alng with their pros and cons. Going o implement them tomorrow.
 
 **Link to work:** [let-me-guess](https://github.com/ysharc/let-me-guess)
+
+### Day 47: February 21, 2017
+
+**Today's Progress**: Coded a bot for tron battle on codingame.com
+
+**Thoughts:** Finished in 2nd in the wood 1 league, need to improve the heuristic.
+
+**Link to work:** [coding-game](https://github.com/ysharc/coding-game)
