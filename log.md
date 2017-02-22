@@ -382,3 +382,11 @@
 **Thoughts:** Finished in 2nd in the wood 1 league, need to improve the heuristic.
 
 **Link to work:** [coding-game](https://github.com/ysharc/coding-game)
+
+### Day 48: February 22, 2017
+
+**Today's Progress**: Implemented minimax algorithm
+
+**Thoughts:** Should debug the algorithm to speed-up in terms of python performance.
+
+**Link to work:** Nothing commited because state's incomplete.
