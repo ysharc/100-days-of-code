@@ -390,3 +390,11 @@
 **Thoughts:** Should debug the algorithm to speed-up in terms of python performance.
 
 **Link to work:** Nothing commited because state's incomplete.
+
+### Day 49: February 23, 2017
+
+**Today's Progress**: Finished minimax algorithm
+
+**Thoughts:** need to debug the algorithm, it's giving the best moves for the enemy and making my AI play the AI bots steps.
+
+**Link to work:** [coding-game](https://github.com/ysharc/coding-game)
