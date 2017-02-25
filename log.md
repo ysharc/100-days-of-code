@@ -398,3 +398,11 @@
 **Thoughts:** need to debug the algorithm, it's giving the best moves for the enemy and making my AI play the AI bots steps.
 
 **Link to work:** [coding-game](https://github.com/ysharc/coding-game)
+
+### Day 49: February 25, 2017
+
+**Today's Progress**: Finished corpus creating and cleaning the text
+
+**Thoughts:** need to remove non-english characters and finish the milestone report.
+
+**Link to work:** [let-me-guess](https://github.com/ysharc/let-me-guess)
