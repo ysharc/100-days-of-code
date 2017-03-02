@@ -406,3 +406,11 @@
 **Thoughts:** need to remove non-english characters and finish the milestone report.
 
 **Link to work:** [let-me-guess](https://github.com/ysharc/let-me-guess)
+
+### Day 50-54: February 26- May 2, 2017
+
+**Today's Progress**: Participating in ghost in the shell contest
+
+**Thoughts:** Improvements to bots
+
+**Link to work:** no code sharing till contest ends
